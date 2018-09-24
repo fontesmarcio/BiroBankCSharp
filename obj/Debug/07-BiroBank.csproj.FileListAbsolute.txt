@@ -1,0 +1,7 @@
+C:\Users\fonte\source\repos\BiroBank\07-BiroBank\bin\Debug\07-BiroBank.exe.config
+C:\Users\fonte\source\repos\BiroBank\07-BiroBank\bin\Debug\07-BiroBank.exe
+C:\Users\fonte\source\repos\BiroBank\07-BiroBank\bin\Debug\07-BiroBank.pdb
+C:\Users\fonte\source\repos\BiroBank\07-BiroBank\obj\Debug\07-BiroBank.csprojAssemblyReference.cache
+C:\Users\fonte\source\repos\BiroBank\07-BiroBank\obj\Debug\07-BiroBank.csproj.CoreCompileInputs.cache
+C:\Users\fonte\source\repos\BiroBank\07-BiroBank\obj\Debug\07-BiroBank.exe
+C:\Users\fonte\source\repos\BiroBank\07-BiroBank\obj\Debug\07-BiroBank.pdb
